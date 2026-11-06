@@ -1,1 +1,1 @@
-# Osint Recon Toolkit
+# OSINT Recon Toolkit
